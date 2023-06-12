@@ -1,0 +1,26 @@
+@media (min-width: 767.98px) {
+  .menu {
+    margin: 0 15%;
+    padding: 0 10%;
+  }
+  .menu .menu__titre {
+    justify-content: center;
+  }
+  footer {
+    flex-direction: row-reverse !important;
+  }
+  footer .footer__title {
+    display: flex;
+    align-items: center;
+    padding: 0 30px 0 40px !important;
+  }
+  footer .footer__title h2 {
+    display: flex;
+  }
+  footer .footer__content {
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 0;
+    gap: 10px;
+  }
+}/*# sourceMappingURL=styleDesktopRestaurants.css.map */
